@@ -1,0 +1,5 @@
+# Auto LF
+* text=auto
+
+# JS always has LF
+*.js eol=lf

@@ -1,0 +1,19 @@
+{
+  "name": "project-configs",
+  "version": "0.0.1",
+  "description": "Like dotfiles but for projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntJanus/project-configs.git"
+  },
+  "author": "Antonin Januska <antjanus>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntJanus/project-configs/issues"
+  },
+  "homepage": "https://github.com/AntJanus/project-configs#readme"
+}
