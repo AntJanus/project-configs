@@ -1,7 +1,7 @@
 # Project Configs
 Like dotfiles but for projects.
 
-Build status:
+Build status: [![CircleCI](https://circleci.com/gh/AntJanus/project-configs.svg?style=svg)](https://circleci.com/gh/AntJanus/project-configs)
 
 ## Why?
 
